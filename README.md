@@ -26,7 +26,7 @@ The project uses Django, Python, HTML, CSS, and Bootstrap for a responsive and m
 
 ## Setup Instructions
 
-```bash
+bash
 git clone https://github.com/Tarun-0508/my-django-project.git
 cd my-django-project
 
@@ -37,6 +37,16 @@ env\Scripts\activate
 source env/bin/activate
 
 pip install -r requirements.txt
+
+project/
+│
+├── app/                 # Django app folder
+├── templates/           # HTML templates
+├── static/              # CSS, JS, images
+├── manage.py            # Django entry point
+└── README.md            # Project documentation
+
+
 
 python manage.py migrate
 
