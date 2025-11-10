@@ -26,7 +26,6 @@ The project uses Django, Python, HTML, CSS, and Bootstrap for a responsive and m
 
 ## Setup Instructions
 
-### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Tarun-0508/my-django-project.git
 cd my-django-project
